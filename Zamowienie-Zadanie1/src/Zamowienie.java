@@ -1,5 +1,5 @@
 
-public class Zamowienie extends Pozycja
+public class Zamowienie
 {
 	// zmienne
 		public Pozycja[] pozycje;
@@ -8,7 +8,6 @@ public class Zamowienie extends Pozycja
 	// metody
 		public Zamowienie()
 		{
-			super("", 0, 0.0);
 			maksRozmiar = 10;
 			ileDodanych = 0;
 			pozycje = new Pozycja[10];
@@ -16,7 +15,6 @@ public class Zamowienie extends Pozycja
 		
 		public Zamowienie(int maxSize)
 		{
-			super("", 0, 0.0);
 			maksRozmiar = maxSize;
 			ileDodanych = 0;
 			pozycje = new Pozycja[maksRozmiar];
