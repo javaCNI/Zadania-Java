@@ -1,0 +1,13 @@
+
+Zamówienie: 
+0.Chleb                  | 3.5 z³       | 1 szt. | 3.5 z³       
+1.Cukier                 | 4.0 z³       | 3 szt. | 12.0 z³      
+2.Jajka                  | 0.5 z³       | 10 szt. | 4.5 z³       w tym 10% rabatu0.5z³
+3.M¹ka                   | 3.0 z³       | 2 szt. | 6.0 z³       
+4.Sok jab³kowy           | 5.0 z³       | 1 szt. | 5.0 z³       
+5.Marchew                | 0.8 z³       | 4 szt. | 3.2 z³       
+6.Jab³ka                 | 0.8 z³       | 5 szt. | 3.8 z³       w tym 5% rabatu = 0.2z³
+7.Kakao                  | 3.5 z³       | 1 szt. | 3.5 z³       
+8.Wanilia                | 1.0 z³       | 4 szt. | 4.0 z³       
+
+Razem: 45.5 z³     
